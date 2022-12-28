@@ -1,0 +1,33 @@
+body
+{
+  color: white;
+  background-image:linear-gradient(to left,yellow, rgb(202, 32, 61),#2f086e,#61045f);
+  font-family: 'Unbounded', cursive;
+}
+.heading{
+  border-radius: 12px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  font-family: 'Unbounded', cursive;
+}
+label{
+  color:#805023;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture_emji
+{
+  font-size:48px;
+}
